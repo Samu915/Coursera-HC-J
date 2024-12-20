@@ -1,2 +1,3 @@
-# Coursera-HC-J
-Repo for Coursera "Html, Css &amp; Javascript for Web Developers
+README  ----------------------------------------
+
+Ver 0.0  - Test commit e push on GIT
